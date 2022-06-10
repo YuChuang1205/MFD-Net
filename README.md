@@ -5,8 +5,3 @@
 3. Put the model weights file from the link above in your newly created "model" folder. Run "test.py" to reproduce the result (0.88).  
 4. We will describe and supplement the code in more detail later (Been busy recently).   
 
-
-
-
-
-
